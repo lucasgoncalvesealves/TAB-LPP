@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4170a6565ff945d4fb6c0d1f3c42d6e5, type: 3}
+  m_Name: VFquestao (13)
+  m_EditorClassIdentifier: 
+  Afirmativa: "Paciente ao ser admitido na unidade deve ter a sua avalia\xE7\xE3o
+    de risco realizada e reavaliada a cada 48 horas."
+  EhVerdade: 0
+  Correcao: "A avalia\xE7\xE3o de risco deve ser realizada na admiss\xE3o e a cada
+    24 horas ou sempre que houver mudan\xE7a cl\xEDnica no quadro."

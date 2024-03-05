@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4170a6565ff945d4fb6c0d1f3c42d6e5, type: 3}
+  m_Name: VFquestao (4)
+  m_EditorClassIdentifier: 
+  Afirmativa: "Para preven\xE7\xE3o de les\xE3o por press\xE3o associada a dispositivo
+    m\xE9dico \xE9 recomendado o rodizio da localiza\xE7\xE3o dos dispositivos e
+    fixa\xE7\xE3o correta dos mesmos."
+  EhVerdade: 1
+  Correcao: "Esta afirmativa \xE9 verdadeira."

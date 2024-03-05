@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8adcfedf7ae05cb4fb22a17bb1209579, type: 3}
+  m_Name: SRquestao (38)
+  m_EditorClassIdentifier: 
+  Fato: "Paciente foi encontrado em uso de almofada com orif\xEDcio central em regi\xE3o
+    occipital."
+  Sorte: 0

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Abertura.unity
+    guid: 07ec7606c9cf5e649856ca65ef30c14c
+  - enabled: 1
+    path: Assets/Scenes/Tabuleiro.unity
+    guid: 5119f63c24dd61442a188530b82f7c1d
+  - enabled: 1
+    path: Assets/Scenes/HoraDoCuidadoCerto.unity
+    guid: 911da92a3a329f441a3e3af2c1560db4
+  - enabled: 1
+    path: Assets/Scenes/HoraDoCuidadoErrado.unity
+    guid: 333b2a3813149b149973e099fb5b4a51
+  - enabled: 1
+    path: Assets/Scenes/HoraDoCuidadoOpcoes.unity
+    guid: dde2f38573753b84aabef72627ef9dcb
+  - enabled: 1
+    path: Assets/Scenes/HoraDoCuidadoPergunta.unity
+    guid: 9fb15c6c81bcb8841bb97cb2f6385dda
+  - enabled: 1
+    path: Assets/Scenes/LesaoDetectadaCerto.unity
+    guid: 24e22ba87a6920545af135f90eb7ef88
+  - enabled: 1
+    path: Assets/Scenes/LesaoDetectadaErrado.unity
+    guid: 22f07d08ead3c164da5a0b0b30822b37
+  - enabled: 1
+    path: Assets/Scenes/LesaoDetectadaImagem.unity
+    guid: 313830e1a734eba4ea8b50be6a99772c
+  - enabled: 1
+    path: Assets/Scenes/LesaoDetectadaOpcoes.unity
+    guid: 3fe1461a10770cd49a2f2f721704237e
+  - enabled: 1
+    path: Assets/Scenes/LesaoDetectadaDescricao.unity
+    guid: d3bb4184b76591942ab7bb8eb60dc920
+  - enabled: 1
+    path: Assets/Scenes/SorteOuRevesPrincipal.unity
+    guid: de8a7c941bcef8c438bef37cde9cf06b
+  - enabled: 1
+    path: Assets/Scenes/SorteOuRevesReves.unity
+    guid: 570e572ac20512c4fb86d22eeb059045
+  - enabled: 1
+    path: Assets/Scenes/SorteOuRevesSorte.unity
+    guid: 023f9769be4b5124f84302cee27cdb8b
+  - enabled: 1
+    path: Assets/Scenes/VerdadeiroOuFalsoAfirmativa.unity
+    guid: 565b52bcd51902b4187f61037562759e
+  - enabled: 1
+    path: Assets/Scenes/VerdadeiroOuFalsoCerto.unity
+    guid: 525a587d236d5004faa843dab39bb6b1
+  - enabled: 1
+    path: Assets/Scenes/VerdadeiroOuFalsoErrado.unity
+    guid: f3fdde213cddbbf40bf1445c41722b1d
+  - enabled: 1
+    path: Assets/Scenes/FimDeJogo.unity
+    guid: a88f8134f5c593245bb6900f8514daf9
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae9e6416d9517e34289e945320abb8e1, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f8343587b8deaf1499d50772c704be0f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: b2dd3a13b8fa6204f8a775829208b3d0, type: 2}

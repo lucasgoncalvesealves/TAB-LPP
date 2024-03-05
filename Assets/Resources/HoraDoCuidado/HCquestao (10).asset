@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a776f7e63e75444a3b5be0fbceac7d, type: 3}
+  m_Name: HCquestao (10)
+  m_EditorClassIdentifier: 
+  Pergunta: "Quais dos cuidados abaixo apresenta risco para o paciente desenvolver
+    les\xE3o por press\xE3o?"
+  OpcaoA: "Massagem em proemin\xEAncias \xF3sseas"
+  OpcaoB: Reposicionamento do paciente no leito
+  OpcaoC: "Hidratar a pele ap\xF3s o banho"
+  OpcaoD: "Fazer rod\xEDzio de localiza\xE7\xE3o de dispositivos"
+  Resposta: "Massagem em proemin\xEAncias \xF3sseas"

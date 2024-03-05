@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a776f7e63e75444a3b5be0fbceac7d, type: 3}
+  m_Name: HCquestao (9)
+  m_EditorClassIdentifier: 
+  Pergunta: "Dentre os fatores abaixo, qual N\xC3O \xE9 avaliado na escala de Braden?"
+  OpcaoA: "Nutri\xE7\xE3o e hidrata\xE7\xE3o"
+  OpcaoB: Umidade
+  OpcaoC: "Uso de dispositivos m\xE9dicos"
+  OpcaoD: "Percep\xE7\xE3o sensorial"
+  Resposta: "Uso de dispositivos m\xE9dicos"

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a776f7e63e75444a3b5be0fbceac7d, type: 3}
+  m_Name: HCquestao (17)
+  m_EditorClassIdentifier: 
+  Pergunta: "Dentre as superf\xEDcies de redistribui\xE7\xE3o de press\xE3o abaixo
+    qual \xE9 indicada para preven\xE7\xE3o de LPP:"
+  OpcaoA: "Coxins em gel viscoel\xE1stico"
+  OpcaoB: "An\xE9is de espuma"
+  OpcaoC: "Luva cheia d\u2019\xE1gua"
+  OpcaoD: "Toalhas e len\xE7\xF3is dobrados"
+  Resposta: "Coxins em gel viscoel\xE1stico"

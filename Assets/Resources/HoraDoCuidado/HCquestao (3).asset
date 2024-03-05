@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a776f7e63e75444a3b5be0fbceac7d, type: 3}
+  m_Name: HCquestao (3)
+  m_EditorClassIdentifier: 
+  Pergunta: "Qual dos colch\xF5es abaixo \xE9 o mais indicado para preven\xE7\xE3o
+    de les\xE3o por press\xE3o?"
+  OpcaoA: "Colch\xE3o piramidal"
+  OpcaoB: "Colch\xE3o caixa de ovo"
+  OpcaoC: "Colch\xE3o pneum\xE1tico"
+  OpcaoD: "Colch\xE3o comum"
+  Resposta: "Colch\xE3o pneum\xE1tico"

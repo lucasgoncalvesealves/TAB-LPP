@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5a776f7e63e75444a3b5be0fbceac7d, type: 3}
+  m_Name: HCquestao (20)
+  m_EditorClassIdentifier: 
+  Pergunta: "Dentre os cuidados para preven\xE7\xE3o de les\xE3o por press\xE3o associada
+    a dispositivo m\xE9dico est\xE3o corretas as alternativas abaixo, exceto:"
+  OpcaoA: "Realizar rod\xEDzio de localiza\xE7\xE3o do dispositivo, dentro das possibilidades"
+  OpcaoB: Inspecionar a pele em contato direto com o dispositivo diariamente
+  OpcaoC: "Realizar fixa\xE7\xE3o do dispositivo tracionando mucosas j\xE1 que estas
+    n\xE3o se lesionam"
+  OpcaoD: "Nenhuma das alternativas est\xE1 correta"
+  Resposta: "Realizar fixa\xE7\xE3o do dispositivo tracionando mucosas j\xE1 que
+    estas n\xE3o se lesionam"

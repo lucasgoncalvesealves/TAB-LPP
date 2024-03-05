@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4170a6565ff945d4fb6c0d1f3c42d6e5, type: 3}
+  m_Name: VFquestao (12)
+  m_EditorClassIdentifier: 
+  Afirmativa: "A escala de ELPO avalia o risco do paciente apresentar les\xE3o por
+    press\xE3o associada a dispositivo m\xE9dico."
+  EhVerdade: 0
+  Correcao: "A escala de ELPO avalia o risco do desenvolvimento de LPP associada
+    ao posicionamento cir\xFArgico."

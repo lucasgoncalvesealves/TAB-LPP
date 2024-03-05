@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27c5adbdd412a1a44a6749b84250140d, type: 3}
+  m_Name: LDquestao (2)
+  m_EditorClassIdentifier: 
+  Imagem: {fileID: 21300000, guid: 6958d6b31da3db149b81168a79c51d9e, type: 3}
+  Descricao: "Perda parcial da espessura da derme que se apresenta como uma ferida
+    superficial (rasa) com leito vermelho-rosa sem tecido desvitalizado. Pode tamb\xE9m
+    apresentar-se como flictena \xEDntegro ou rompido. Apresenta tecido vi\xE1vel.
+    Tecido de granula\xE7\xE3o, esfacelo ou escara n\xE3o est\xE3o presentes."
+  OpcaoA: "Est\xE1gio 3"
+  OpcaoB: "Est\xE1gio 2"
+  OpcaoC: "Associada a dispositivo m\xE9dico"
+  OpcaoD: Em membrana mucosa
+  Resposta: "Est\xE1gio 2"
